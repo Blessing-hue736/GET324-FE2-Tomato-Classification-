@@ -31,6 +31,7 @@ Deployed on Streamlit Community Cloud: https://get324-fe3-tomato-classification.
 Team Details:
 REG NUMBER NAME GITHUB ID
 23/EG/FE/022 Ukpe, Blessing Emmanuel. Blessing-hue736
+23/EG/FE/002 BENEDICT, DIVINE IDONGESIT
 
 
 
