@@ -17,7 +17,7 @@ with st.sidebar:
     st.header("ABOUT THIS PROJECT")
     st.write(
         "**GET 324 Mini-Project**\n\n"
-        "Group FE3\n\n"
+        "Group FE 2\n\n"
         "FOOD ENGINEERING\n\n"
         "TASK: Healthy Tomato Leaf vs Tomato Early Blight"
     )
