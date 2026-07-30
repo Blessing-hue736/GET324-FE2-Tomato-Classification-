@@ -17,8 +17,8 @@ with st.sidebar:
     st.header("ABOUT THIS PROJECT")
     st.write(
         "**GET 324 Mini-Project**\n\n"
-        "Group CO17\n\n"
-        "COMPUTER ENGINEERING\n\n"
+        "Group FE3\n\n"
+        "FOOD ENGINEERING\n\n"
         "TASK: Healthy Tomato Leaf vs Tomato Early Blight"
     )
     st.markdown("---")
@@ -124,5 +124,5 @@ if image_source is not None:
 
 st.markdown("---")
 st.caption(
-    "Built for GET 324 Lab Exercise 10 (Mini-Project) — Group CO17."
+    "Built for GET 324 Lab Exercise 10 (Mini-Project) — Group FE3."
 )
