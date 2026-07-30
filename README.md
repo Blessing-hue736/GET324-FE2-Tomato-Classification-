@@ -26,7 +26,7 @@ Open and run notebooks/train_model.ipynb top to bottom.
 The trained model is saved to model/tomato_model.h5.
 
 Deployment:
-Deployed on Streamlit Community Cloud: 
+Deployed on Streamlit Community Cloud: https://get324-fe3-tomato-classification.streamlit.app/
 
 Team Details:
 REG NUMBER NAME GITHUB ID
