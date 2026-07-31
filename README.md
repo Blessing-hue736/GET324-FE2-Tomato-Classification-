@@ -46,3 +46,4 @@ REG NUMBER NAME GITHUB ID
 23/EG/FE/042 Ndem, Deborah Imoh. Borah205
 
 23/EG/FE/052John Edidiong Joshua.blessingjoe364-ai
+22/EG/FE/642 Duncan Godwin.duncanvictor-ops 
