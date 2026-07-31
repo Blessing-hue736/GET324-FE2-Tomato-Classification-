@@ -41,4 +41,4 @@ REG NUMBER NAME GITHUB ID
 
 23/EG/FE/032 EDET,Precious Godwin. pwezious
 
-22/EG/FE/652 Ananah Emmanuel Joseph. emmanuelananah476-hub
+22/EG/FE/652 Ananah,Emmanuel Joseph. emmanuelananah476-hub
