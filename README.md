@@ -44,3 +44,4 @@ REG NUMBER NAME GITHUB ID
 22/EG/FE/652 Ananah,Emmanuel Joseph. emmanuelananah476-hub
 
 23/EG/FE/042 Ndem, Deborah Imoh. Borah205
+23/EG/FE/052 John Edidiong Joshua.blessingjoe364-ai
